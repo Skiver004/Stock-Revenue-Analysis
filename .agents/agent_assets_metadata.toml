@@ -1,0 +1,74 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "XvYxfKaBYvD3eJmPB9Ig3"
+uri = "file://tesla-gamestop-analysis/screenshots/Q1_tesla_stock_head.png"
+type = "image"
+title = "Q1 – Tesla Stock Data (tesla_data.head())"
+
+[[outputs]]
+id = "hsiXdAGAoCg536GGyYFQ3"
+uri = "file://tesla-gamestop-analysis/screenshots/Q2_tesla_revenue_tail.png"
+type = "image"
+title = "Q2 – Tesla Revenue Data (tesla_revenue.tail())"
+
+[[outputs]]
+id = "iOzvyolxyPIOgRss5REHc"
+uri = "file://tesla-gamestop-analysis/screenshots/Q3_gme_stock_head.png"
+type = "image"
+title = "Q3 – GameStop Stock Data (gme_data.head())"
+
+[[outputs]]
+id = "DRJC-fS0LGVIHWsXVfSJ5"
+uri = "file://tesla-gamestop-analysis/screenshots/Q4_gme_revenue_tail.png"
+type = "image"
+title = "Q4 – GameStop Revenue Data (gme_revenue.tail())"
+
+[[outputs]]
+id = "u715tsBzs7U01fC9GLW_t"
+uri = "file://tesla-gamestop-analysis/screenshots/Q5_tesla_graph.png"
+type = "image"
+title = "Q5 – Tesla Stock vs Revenue Graph"
+
+[[outputs]]
+id = "GuWCvO5Uc6LDiEORd3t0E"
+uri = "file://tesla-gamestop-analysis/screenshots/Q6_gamestop_graph.png"
+type = "image"
+title = "Q6 – GameStop Stock vs Revenue Graph"
+
+[[outputs]]
+id = "Lo7X-bUhXURDJ4Q32aOUN"
+uri = "file://tesla-gamestop-analysis/output/q1_tesla_head.png"
+type = "image"
+title = "Q1 – Tesla Stock Data"
+
+[[outputs]]
+id = "871n4MnfilzdZQ4VbMN18"
+uri = "file://tesla-gamestop-analysis/output/q2_tesla_revenue_tail.png"
+type = "image"
+title = "Q2 – Tesla Revenue Data"
+
+[[outputs]]
+id = "0m2_agZ71GXERCEgA8yXP"
+uri = "file://tesla-gamestop-analysis/output/q3_gme_head.png"
+type = "image"
+title = "Q3 – GameStop Stock Data"
+
+[[outputs]]
+id = "iej_zDnkJ05klwHKYmmnh"
+uri = "file://tesla-gamestop-analysis/output/q4_gme_revenue_tail.png"
+type = "image"
+title = "Q4 – GameStop Revenue Data"
+
+[[outputs]]
+id = "p7VhZ2-VXBqiI4nx3mWyf"
+uri = "file://tesla-gamestop-analysis/output/q5_tesla_dashboard.png"
+type = "image"
+title = "Q5 – Tesla Stock vs Revenue Graph"
+
+[[outputs]]
+id = "5Z9jEiFkWwCRj6V3cTxvy"
+uri = "file://tesla-gamestop-analysis/output/q6_gme_dashboard.png"
+type = "image"
+title = "Q6 – GameStop Stock vs Revenue Graph"
